@@ -7,4 +7,4 @@ or **B)** it just straight up isn't actually copyright free and you're highly li
 
 The person who wrote the [suckless](https://suckless.org/sucks/) site should add a "music' section and add specifically that to it due to how much it sucks...
 
-In my case I want to make 100% sure that people who want to use my music in their stuff can be reliably ensured that the music can ACTUALLY be used, so, I created this repo to catalogue all the free music I release past this point with their respective licenses so the usage terms are immediately visible and obvious.
+In my case I want to make 100% sure that people who want to use my music in their stuff can be reliably ensured that the music can ACTUALLY be used, so, I created this repo to catalogue all the free music I release from now on with their respective licenses so the usage terms are immediately visible and obvious.
